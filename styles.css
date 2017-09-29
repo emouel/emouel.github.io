@@ -1,0 +1,25 @@
+
+h1 {font-color:blue}
+
+body {
+	background-image: url("cool-background.jpg") ;
+	font-family: 'Droid Sans', sans-serif;
+	color: Silver
+	}
+ 
+h1 {font-size: 250%;
+font-weight: bold;
+color:
+}
+nav li {display: inline-block;
+border: 2px solid black;
+padding:10px;
+margin: 5px;
+background: LightSeaGreen;
+
+} 
+h3 {color: black;}
+hover {color: red}
+
+a:hover {color: red;}
+.picture {float:left} 
